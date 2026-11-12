@@ -1,0 +1,15 @@
+PySide6>=6.7,<7
+pyinstaller>=6.0
+
+
+ফোল্ডারের Address Bar-এ cmd লিখে Enter চাপো। তারপর এই কমান্ডটি চালাও:
+
+py -m pip install -r requirements_DownloadCenter.txt
+
+ইনস্টল শেষ হওয়া পর্যন্ত অপেক্ষা করো।
+ধাপ ৫: VPN Manager চালু করো
+একই ফোল্ডারে Salman_Boss_VPN_Manager_v0_5_DirectDownload.py ফাইলটি খুঁজে বের করো।
+
+এতে Double Click করো। না খুললে CMD-তে চালাও:
+
+py Salman_Boss_VPN_Manager_v0_5_DirectDownload.py
