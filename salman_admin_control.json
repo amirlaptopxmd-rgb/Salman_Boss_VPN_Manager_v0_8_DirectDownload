@@ -1,7 +1,10 @@
 {
   "app_enabled": true,
-  "latest_version": "0.8.0",
-  "update_message": "নতুন আপডেট এসেছে! সর্বশেষ ফিচার পেতে এখনই আপডেট করুন।",
-  "update_script_url": "",
-  "lock_message": "⛔ অ্যাডমিন (Salman Boss) এই সফটওয়্যারের অ্যাক্সেস সাময়িকভাবে বন্ধ রেখেছেন। যোগাযোগ করুন: WhatsApp / Telegram।"
+  "latest_version": "0.10.3",
+  "update_message": "নতুন আপডেট এসেছে! v0.10.3 আপডেটটি এখন ডাউনলোড করতে পারেন।",
+  "update_script_url": "https://github.com/amirlaptopxmd-rgb/Salman_Boss_VPN_Manager_v0_8_DirectDownload/releases/download/untagged-fd978b96517753deaa89/SalmanBossVPNManager.exe",
+  "lock_message": "⛔ অ্যাডমিন (Salman Boss) এই সফটওয়্যারের অ্যাক্সেস সাময়িকভাবে বন্ধ রেখেছেন। যোগাযোগ করুন: WhatsApp / Telegram।",
+  "update_sha256": "ba7f6bd0ea95c373018fde1acb50cef4ffb6ae872af5f1543b4fcd09e3344dfc",
+  "update_file_name": "SalmanBossVPNManager.exe",
+  "control_json_url": "https://raw.githubusercontent.com/amirlaptopxmd-rgb/Salman_Boss_VPN_Manager_v0_8_DirectDownload/main/salman_admin_control.json"
 }
